@@ -1,0 +1,8 @@
+# Alberto Perez Ortega 40489659
+# Option A
+
+Caveroute and code_1 have to be in the same folder.
+
+Code is written in python3.
+
+Run the caveroute file and then input name of the folder as specified in coursework.
